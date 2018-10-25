@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1540510094 source:c:\users\jm789016\desktop\autocorrectpractice\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
